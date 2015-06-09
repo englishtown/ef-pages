@@ -1,0 +1,21 @@
+{
+  "name": "ef-landing",
+  "version": "0.0.0",
+  "authors": [
+    "Garry Yao <garry.yao@ef.com>"
+  ],
+  "description": "landing pages for e1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gudstrap": "englishtown/gudstrap#develop",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1"
+  }
+}
